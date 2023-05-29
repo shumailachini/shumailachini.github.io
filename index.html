@@ -51,7 +51,18 @@ image: "/img/og-img.png"
         <div class="writing-preview">
           <h2>Recent writing</h2>
           <div class="post-container">
-            {% for item in site.data.writing %}
+            {% for item in site.data.writing1 %}
+            <a
+              class="post-link {% if item.published == false %} disabled {% endif %}"
+              href="{{ item.url }}"
+            >
+              <b>{{ item.title }}</b>
+              <div>{{ item.description }}</div>
+            </a>
+            {% endfor %}
+          </div>
+          <div class="post-container">
+            {% for item in site.data.writing2 %}
             <a
               class="post-link {% if item.published == false %} disabled {% endif %}"
               href="{{ item.url }}"
@@ -65,17 +76,6 @@ image: "/img/og-img.png"
         </div>
       </div>
       <div class="about column">
-        <!-- <div class="collaborators">
-          <h2>Recent collaborators</h2>
-          <div>
-            <a href="https://prose.com/">Prose</a
-            ><span class="accent external-link">&#8599;&#xFE0E;</span>
-          </div>
-          <div>
-            <a href="https://www.ustwo.com/">ustwo</a
-            ><span class="accent external-link">&#8599;&#xFE0E;</span>
-          </div>
-        </div> -->
         <h2>A little about me</h2>
         <div>
           A licensed pharmacist by training and a passionate for UX design, I
@@ -87,28 +87,20 @@ image: "/img/og-img.png"
           Google and looking for my first role in design
         </div>
         <div>
-          I grew up in a small town in India<span
-            class="accent superscript"
-            id="doubledagger"
-            onmouseover="addClass(doubledagger2, 'footnote-accent');"
-            onmouseout="removeClass(doubledagger2, 'footnote-accent');"
-            >‡</span
-          >, make a lot of self deprecating jokes<span
-            class="accent superscript"
-            id="section"
-            onmouseover="addClass(section2, 'footnote-accent');"
-            onmouseout="removeClass(section2, 'footnote-accent');"
-            >§</span
-          >, and I'm notorious for being average at a thousand hobbies—most
+          I grew up in a small town in India, make a lot of self deprecating
+          jokes, and I'm notorious for being average at a thousand hobbies—most
           recently writing, <strike>guitar</strike> piano,
           <strike>mini</strike> Monday crossword puzzles,
-          <strike>knitting</strike> wire sculpting, and journaling.<span
-            class="accent superscript"
-            id="paragraph"
-            onmouseover="addClass(paragraph2, 'footnote-accent');"
-            onmouseout="removeClass(paragraph2, 'footnote-accent');"
-            >¶</span
-          >
+          <strike>knitting</strike> wire sculpting, and journaling.
+        </div>
+        <div class="collaborators">
+          <h2>Skills</h2>
+          <div>
+            <h4>Figma</h4>
+          </div>
+          <div>
+            <h4>Adobe XD</h4>
+          </div>
         </div>
       </div>
     </div>
