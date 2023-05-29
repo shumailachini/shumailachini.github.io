@@ -11,9 +11,9 @@
   external: false
   id: kleo
   site: https://invis.io/VB9OO63AY#/210571241_Home
-- title: Baudelaire
-  description: A modern transitional serif&nbsp;typeface
+- title: Flash Wallet
+  description: A modern crypto wallet
   url: /project/baudelaire
-  show: false
+  show: true
   external: false
   id: baudelaire
