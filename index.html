@@ -16,7 +16,7 @@ image: "/img/og-img.png"
           >
           Chini
         </h1>
-        —Independent product & UX designer.
+        — Product & UX designer.
       </div>
       <div>
         I'm available for full-time or contract work in June 2023.
@@ -62,20 +62,20 @@ image: "/img/og-img.png"
             {% endfor %}
           </div>
         </div>
-      </div>
-      <div class="writing-preview">
-        <div class="post-container">
-          {% for item in site.data.writing2 %}
-          <a
-            class="post-link {% if item.published == false %} disabled {% endif %}"
-            href="{{ item.url }}"
-          >
-            <b>{{ item.title }}</b>
-            <div>{{ item.description }}</div>
-          </a>
-          {% endfor %}
+        <div class="writing-preview">
+          <div class="post-container">
+            {% for item in site.data.writing2 %}
+            <a
+              class="post-link {% if item.published == false %} disabled {% endif %}"
+              href="{{ item.url }}"
+            >
+              <b>{{ item.title }}</b>
+              <div>{{ item.description }}</div>
+            </a>
+            {% endfor %}
+          </div>
+          <a class="back" href="/writing">Read the rest <span>→</span></a>
         </div>
-        <a class="back" href="/writing">Read the rest <span>→</span></a>
       </div>
     </div>
       <div class="about column">
