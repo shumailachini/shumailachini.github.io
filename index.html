@@ -54,7 +54,7 @@ image: "/img/og-img.png"
             {% for item in site.data.writing %}
             <a
               class="post-link {% if item.published == false %} disabled {% endif %}"
-              href="/writing/{{ item.url }}"
+              href="{{ item.url }}"
             >
               <b>{{ item.title }}</b>
               <div>{{ item.description }}</div>
