@@ -5,11 +5,11 @@ plugins:
   - jekyll-seo-tag
 
 title: Shumaila Chini
-tagline: Independent Product & Experience Designer
-description: Portfolio and more of Shumaila Chini, independent product & experience designer.
+tagline: Product & Experience Designer
+description: Portfolio and more of Shumaila Chini, product & experience designer.
 Author: Shumaila Chini
 image: "/img/og-img.png"
 lang: en_GB
 twitter:
-  username: ampinsk
+  username: chini_shumaila
   card: summary
