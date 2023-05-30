@@ -9,7 +9,7 @@
   url: /project/nftspace
   show: true
   external: false
-  id: kleo
+  id: nftspace
   site: https://www.figma.com/proto/SUHnkwuEOcbhtZ5cmiLkWF/NFT-Marketplace%3A-PROJECT-1?type=design&node-id=54195-34799&scaling=scale-down&page-id=54195%3A34798&starting-point-node-id=54195%3A34799
 - title: Flash Wallet
   description: A modern crypto wallet
