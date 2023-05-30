@@ -79,3 +79,7 @@ Once we decided on this direction, we designed the prototype iteratively based o
 **Social features** — We integrated social sharing and interaction options, allowing users to share their collections, follow other users, and engage in discussions.
 
 **Advanced search and filtering** — By offering advanced search options and filters, users can easily find NFTs that match their preferences and budget.
+
+# Interactive Figma Prototype
+
+Interactive Figma Prototype can be found [here](https://www.figma.com/proto/SUHnkwuEOcbhtZ5cmiLkWF/NFT-Marketplace%3A-PROJECT-1?type=design&node-id=54195-34799&scaling=scale-down&page-id=54195%3A34798&starting-point-node-id=54195%3A34799)

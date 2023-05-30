@@ -14,6 +14,6 @@
 - title: Flash Wallet
   description: A modern crypto wallet
   url: /project/baudelaire
-  show: true
+  show: false
   external: false
   id: baudelaire
