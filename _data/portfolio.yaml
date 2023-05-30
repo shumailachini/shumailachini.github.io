@@ -4,7 +4,7 @@
   show: false
   external: true
   id: experiments
-- title: NFTspace
+- title: NFTSpace
   description: An interactive NFT marketplace in Figma
   url: /project/nftspace
   show: true
