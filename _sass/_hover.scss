@@ -36,6 +36,32 @@ body.kleo {
   }
 }
 
+body.nftspace {
+  $foreground: $white;
+  $accent: $black;
+
+  background: $purple;
+  color: $foreground;
+
+  a {
+    color: $foreground;
+  }
+
+  .project {
+    &:hover:after {
+      border: 1px solid $foreground;
+    }
+  }
+
+  .accent {
+    color: $accent;
+  }
+
+  hr.accent {
+    border-color: $accent;
+  }
+}
+
 body.cli {
   $foreground: lime;
   $accent: white;
