@@ -1,6 +1,6 @@
 ---
 title: Shumaila Chini | WebSecure
-tag: websecure
+tag: WebSecure
 type: project
 layout: project
 image: "/img/og-img.png"

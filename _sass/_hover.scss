@@ -62,6 +62,32 @@ body.nftspace {
   }
 }
 
+body.websecure {
+  $foreground: $white;
+  $accent: $black;
+
+  background: $maroon;
+  color: $foreground;
+
+  a {
+    color: $foreground;
+  }
+
+  .project {
+    &:hover:after {
+      border: 1px solid $foreground;
+    }
+  }
+
+  .accent {
+    color: $accent;
+  }
+
+  hr.accent {
+    border-color: $accent;
+  }
+}
+
 body.cli {
   $foreground: lime;
   $accent: white;
@@ -102,32 +128,6 @@ body.sentry {
   .project {
     &:hover:after {
       border: 1px solid $foreground;
-    }
-  }
-
-  .accent {
-    color: $accent;
-  }
-
-  hr.accent {
-    border-color: $accent;
-  }
-}
-
-body.websecure {
-  $foreground: $green;
-  $accent: $black;
-
-  color: $foreground;
-  background: $tan;
-
-  a {
-    color: $foreground;
-  }
-
-  .project {
-    &:hover:after {
-      border: 1px solid $accent;
     }
   }
 
