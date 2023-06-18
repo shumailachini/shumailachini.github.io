@@ -7,7 +7,7 @@ image: "/img/og-img.png"
 ---
 
 {:.full}
-![NFTSpace cover image](/img/full/nftspace.jpeg)
+![NFTSpace cover image](/img/full/nftspace-min.jpeg)
 
 # Background
 
@@ -31,7 +31,7 @@ Based on market research, we identified our main audience as NFT enthusiasts and
 3. **Content creators**—Artists, Musicians, Game developers
 
 {:.full}
-![](/img/full/nftspace1.jpeg)
+![](/img/full/nftspace1-min.jpeg)
 
 # Brainstorming
 
@@ -42,7 +42,7 @@ After, we brainstormed problem statements. We picked out the problems we were mo
 Using these prompts, we brainstormed quick ideas for solutions. Looking back, a lot of our ideas from this brainstorming session made their way into our MVP.
 
 {:.full}
-![Museum logos](/img/full/nftspace2.png)
+![Museum logos](/img/full/nftspace2.jpg)
 
 ###### The NFT marketplaces we analyzed for inspiration and understanding.
 
@@ -51,7 +51,7 @@ Using these prompts, we brainstormed quick ideas for solutions. Looking back, a 
 Based on our exercise, we realized we needed to understand the platform's point of view more, so we set up interviews with professionals who worked with or at these organizations. These interviews were to empathize with a new audience, but we were also looking to potentially partner with an existing NFT platform to execute the project.
 
 {:.full}
-![Sitemap](/img/full/nftspace3.png)
+![Sitemap](/img/full/nftspace3.jpg)
 
 ###### An early sitemap of the final app
 
@@ -64,7 +64,7 @@ Over about 3 weeks, we established the information architecture, sketched wirefr
 About halfway through the project, we decided to move forward with using open APIs from popular NFT marketplaces and designing the experience around their data.
 
 {:.full}
-![App screens](/img/full/nftspace4.jpeg)
+![App screens](/img/full/nftspace4-min.jpeg)
 
 # Implementation
 

@@ -7,7 +7,7 @@ image: "/img/og-img.png"
 ---
 
 {:.full}
-![Sentry cover image](/img/full/sentry_full.jpeg)
+![Sentry cover image](/img/full/sentry_full-min.jpeg)
 
 # Background
 
@@ -29,7 +29,7 @@ Based on market research, I identified our main audience as crypto enthusiasts a
 3. **Content creators**—Artists, Musicians, Game developers
 
 {:.full}
-![](/img/full/sentry1.jpeg)
+![](/img/full/sentry1-min.jpeg)
 
 # Brainstorming
 
@@ -40,7 +40,7 @@ After, we brainstormed problem statements. We picked out the problems we were mo
 Using these prompts, we brainstormed quick ideas for solutions. Looking back, a lot of our ideas from this brainstorming session made their way into our MVP.
 
 {:.full}
-![Crypto wallet logos](/img/full/sentry2.jpeg)
+![Crypto wallet logos](/img/full/sentry2-min.jpeg)
 
 # Professional interviews
 

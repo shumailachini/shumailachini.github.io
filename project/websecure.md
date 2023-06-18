@@ -7,14 +7,14 @@ image: "/img/og-img.png"
 ---
 
 {:.full}
-![WebSecure cover image](/img/full/websecure1.png)
+![WebSecure cover image](/img/full/websecure1.jpg)
 
 # Background
 
 In mid-2023, I embarked on a mission to create an engaging and informative landing page for a Digital Security Services company. My goal was to provide users with a seamless experience that would convey the company's expertise and build trust with potential clients.
 
 {:.full}
-![WebSecure2](/img/full/websecure2.png)
+![WebSecure2](/img/full/websecure2.jpg)
 
 # Objectives
 
@@ -24,7 +24,7 @@ In mid-2023, I embarked on a mission to create an engaging and informative landi
 - Encourage visitors to take action and engage with the company.
 
 {:.full}
-![WebSecure3](/img/full/websecure3.png)
+![WebSecure3](/img/full/websecure3.jpg)
 
 # Target Audience
 
@@ -35,7 +35,7 @@ Through market research and analysis, we identified our primary audience as foll
 - Decision Makers - Executives and managers involved in strategic planning and risk management.
 
 {:.full}
-![WebSecure4](/img/full/websecure4.png)
+![WebSecure4](/img/full/websecure4.jpg)
 
 # Implementation and Iteration
 
@@ -46,7 +46,7 @@ Throughout the process, we conducted usability tests and gathered feedback from 
 By combining an attractive visual design, captivating animations, and thoughtful UX considerations, we successfully created a landing page that effectively showcased the company's digital security services and encouraged visitors to take action.
 
 {:.full}
-![WebSecure5](/img/full/websecure5.png)
+![WebSecure5](/img/full/websecure5.jpg)
 
 # Interactive Figma Prototype
 
