@@ -1,9 +1,3 @@
-- title: GitHub Experiments
-  description: Showcasing experimental machine learning research
-  url: http://experiments.github.com
-  show: false
-  external: true
-  id: experiments
 - title: NFTSpace
   description: An interactive NFT marketplace in Figma
   url: /project/nftspace
@@ -24,3 +18,4 @@
   show: true
   external: false
   id: sentry
+  site: https://www.figma.com/proto/WzTCvvXW6PUnfNQa66B1Xd/Sentry?type=design&node-id=302-3&scaling=scale-down&page-id=302%3A2
