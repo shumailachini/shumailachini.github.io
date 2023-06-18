@@ -40,7 +40,7 @@ After, we brainstormed problem statements. We picked out the problems we were mo
 Using these prompts, we brainstormed quick ideas for solutions. Looking back, a lot of our ideas from this brainstorming session made their way into our MVP.
 
 {:.full}
-![Crypto wallet logos](/img/full/sentry2.png)
+![Crypto wallet logos](/img/full/sentry2.jpeg)
 
 # Professional interviews
 
