@@ -19,3 +19,9 @@
   external: false
   id: sentry
   site: https://www.figma.com/proto/WzTCvvXW6PUnfNQa66B1Xd/Sentry?type=design&node-id=302-3&scaling=scale-down&page-id=302%3A2
+- title: Ontropy
+  description: Virtual Rollups Landing Page
+  url: /project/ontropy
+  show: true
+  external: false
+  id: ontropy

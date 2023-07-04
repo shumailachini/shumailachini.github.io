@@ -88,6 +88,32 @@ body.websecure {
   }
 }
 
+body.ontropy {
+  $foreground: $white;
+  $accent: $white;
+
+  background: $purple;
+  color: $foreground;
+
+  a {
+    color: $foreground;
+  }
+
+  .project {
+    &:hover:after {
+      border: 1px solid $foreground;
+    }
+  }
+
+  .accent {
+    color: $accent;
+  }
+
+  hr.accent {
+    border-color: $accent;
+  }
+}
+
 body.cli {
   $foreground: lime;
   $accent: white;
