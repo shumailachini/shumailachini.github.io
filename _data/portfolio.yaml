@@ -22,6 +22,6 @@
 - title: Ontropy
   description: Virtual Rollups Landing Page
   url: /project/ontropy
-  show: true
+  show: false
   external: false
   id: ontropy
