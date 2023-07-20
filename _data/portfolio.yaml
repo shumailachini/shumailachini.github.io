@@ -1,3 +1,10 @@
+- title: Ontropy
+  description: Instant Transactions on Any Chain with Virtual Rollups
+  url: /project/ontropy
+  show: true
+  external: true
+  id: ontropy
+  site: https://www.ontropy.io
 - title: NFTSpace
   description: An interactive NFT marketplace in Figma
   url: /project/nftspace
@@ -19,9 +26,3 @@
   external: false
   id: sentry
   site: https://www.figma.com/proto/WzTCvvXW6PUnfNQa66B1Xd/Sentry?type=design&node-id=302-3&scaling=scale-down&page-id=302%3A2
-- title: Ontropy
-  description: Virtual Rollups Landing Page
-  url: /project/ontropy
-  show: false
-  external: false
-  id: ontropy
